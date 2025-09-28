@@ -1,7 +1,6 @@
 # Proyecto - Vendedores - Machine-Learning
 
-# Título del Proyecto (Problema → Solución → Impacto)
-**Rol:**Felipe Morales • **Fecha:** (Sept/2025) • **Stack:** Excel, Python, R.
+**Rol:** Felipe Morales • **Fecha:** (Sept/2025) • **Stack:** Excel, Python, R.
 
 ## 1) Problema de negocio
 El proyecto consiste en que a partir de un archivo Excel debemos crear múltiples archivos Excel en 
