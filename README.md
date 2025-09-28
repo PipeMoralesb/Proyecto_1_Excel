@@ -10,15 +10,14 @@ archivo Excel para cada vendedor con su respectiva información.
 Primero veremos cómo sería en Excel, y luego, eficientar este proceso en Python y R.
 
 ## 2) Datos
-Fuente(s), tamaño, periodo, link o script de descarga (`data/get_data.py`), notas de calidad/ética.
+Fuente(s), tamaño, periodo, link o script de descarga (`data/4_datos.xlsx`), notas de calidad/ética.
 
 ## 3) Metodología
 ETL (SQL/Python), features, modelo/medidas, visualizaciones, supuestos.
 
 ## 4) Resultados
-- KPI1 (e.g., ↓ tiempo de reporte 40%)
-- KPI2 (e.g., ↑ precisión de forecast 15%)
-- KPI3 (e.g., +12% ROAS)
+- Tiempo en procesamiento de datos y exportación segmentada reducida considerablemente por un sistema de automatización, entregando diferentes archivos excel filtrado por vendedores.
+- Alrededor de 100 archivos Excel obtenidos en 1 segundo.
 
 ## 5) Summary - Proyecto: Automatización de Archivos excel por vendedor
 
