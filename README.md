@@ -10,11 +10,13 @@ archivo Excel para cada vendedor con su respectiva información.
 Primero veremos cómo sería en Excel, y luego, eficientar este proceso en Python y R.
 
 ## 2) Datos
-Fuente(s), tamaño, periodo, link o script de descarga (`data/4_datos.xlsx`), notas de calidad/ética.
+Datos sobre vendedores, ventas por producto, totales (`data/4_datos.xlsx`).
 
 ## 3) Metodología
-ETL (SQL/Python), features, modelo/medidas, visualizaciones, supuestos.
-
+**Python**
+- Libreria **Pandas**
+- Librería **os**
+  
 ## 4) Resultados
 - Tiempo en procesamiento de datos y exportación segmentada reducida considerablemente por un sistema de automatización, entregando diferentes archivos excel filtrado por vendedores.
 - Alrededor de 100 archivos Excel obtenidos en 1 segundo.
